@@ -1,0 +1,21 @@
+{
+  "author": "David Banham",
+  "name": "mmmmhm",
+  "description": "Search plugin for mmmmhm",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "index.js",
+  "dependencies": {
+		"request": "*"
+		, "jquery": "*"
+		, "jsdom": "*"
+		, "xml-simple": "*"
+	},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
